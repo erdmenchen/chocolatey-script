@@ -1,5 +1,7 @@
-#Requires -RunAsAdministrator
+# Author: Michal Jacko
+# v0.1
 
+#Requires -RunAsAdministrator
 $run_local=$args[0]
 
 # install chocolatey if not installed
